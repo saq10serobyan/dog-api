@@ -1,4 +1,3 @@
-// https://dog.ceo/api/breed/hound/images
 const BASE_URL = "https://dog.ceo/api/breeds";
 const BASE_URL2 = "https://dog.ceo/api/breed"
 const RANDOM_IMAGE_URL = `${BASE_URL}/image/random`;
